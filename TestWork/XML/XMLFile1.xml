@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Table>
+
+  <Str Id="1" Code="gargadgadfga" Name="Запрос предложений 1" StatusId="45"></Str>
+  <Str Id="2" Code="bsdagadsddas" Name="Запрос предложений 2" StatusId="2"></Str>
+  <Str Id="3" Code="gradasfggsaa" Name="Запрос предложений 3" StatusId="45"></Str>
+  <Str Id="4" Code="afgadsdaghfhf" Name="Запрос предложений 4" StatusId="3"></Str>
+  <Str Id="5" Code="dgadftfsdgfgdh" Name="Запрос предложений 5" StatusId="45"></Str>
+  <Str Id="6" Code="argrgag" Name="Запрос предложений 6" StatusId="2"></Str>
+  
+</Table>
